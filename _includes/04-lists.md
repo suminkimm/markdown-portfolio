@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* dogs and cats :heart:
+* korean bbq
+* the color green
